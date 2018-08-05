@@ -1,0 +1,7 @@
+作業場所は
+Application/MAMP/htdocs下。
+
+実行する時は、http://localhost:先程のApacheポート番号/test1.php
+
+今回だと、
+http://localhost:8888/test1.php
